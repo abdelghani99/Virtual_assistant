@@ -17,10 +17,10 @@ components.html(
         Your website.
     </body>
 </html>
-    """, width= 2000, height= 2000
+    """, width= 200, height= 200
 )
 
-componenets.html(
+components.html(
     """
     <iframe
     allow="microphone;"
