@@ -3,7 +3,7 @@ import streamlit as st
 
 
 
-st.title("Welcome to BVIBot !")
+st.title("Welcome to the Virtual Platform of the International Master of Biometrics and Intelligent Vision !")
 components.html(
     """
 
