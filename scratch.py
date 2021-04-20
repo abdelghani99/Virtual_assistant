@@ -89,7 +89,7 @@ def main():
                                </script>
                            </body>
                          </html>
-                               """, width= 600, height= 900
+                               """, width= 600, height= 800
 		
 			
 )
