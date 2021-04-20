@@ -66,8 +66,7 @@ def main():
                            </body>
                          </html>
                                """, width= 600, height= 800
-)
-		components.html(
+		
 			     """
 			 </html>    
 			   <iframe
@@ -77,7 +76,7 @@ def main():
                             src="https://console.dialogflow.com/api-client/demo/embedded/d3f9877b-23ac-47de-a390-eba4810d67ce">
                            </iframe>
 			 </html>
-		)
+)
 		
 		
 		
