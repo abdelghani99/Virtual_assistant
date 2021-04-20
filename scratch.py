@@ -67,19 +67,32 @@ def main():
                          </html>
                                """, width= 600, height= 800
 		
-			     """
-			 </html>    
-			   <iframe
-                            allow="microphone;"
-                            width="350"
-                            height="430"
-                            src="https://console.dialogflow.com/api-client/demo/embedded/d3f9877b-23ac-47de-a390-eba4810d67ce">
-                           </iframe>
-			 </html>
-			       """, width = 100, height = 100
+			
 )
 		
+		components.html(
+                             """
+                         <html>
+                           <head>
+                                   <title>Your Website</title>
+                           </head>
+                           <body>
+                               <script type="text/javascript"
+                                  id="botcopy-embedder-d7lcfheammjct"
+                                  class="botcopy-embedder-d7lcfheammjct" 
+                                  data-botId="607ea73de7e5640009900608">
+                                                                                                   
+                                  var s = document.createElement('script'); 
+                                  s.type = 'text/javascript'; s.async = true; 
+                                  s.src = 'https://widget.botcopy.com/js/injection.js'; 
+                                  document.getElementById('botcopy-embedder-d7lcfheammjct').appendChild(s);
+                               </script>
+                           </body>
+                         </html>
+                               """, width= 100, height= 100
 		
+			
+)
 		
 		
 		
