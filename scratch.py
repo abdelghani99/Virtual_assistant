@@ -62,7 +62,7 @@ def main():
                                    <title>Your Website</title>
                            </head>
                            <body>
-                               <script type="text/javascript" src="https://hosted.us.uneeq.io/deploy/b627d925-ce31-4e86-8410-4284cbc0f37d"></script>
+                               <script type="text/javascript" src="https://hosted.us.uneeq.io/deploy/c236a658-c93a-48af-848b-3b86d6cad06e"></script>
                            </body>
                          </html>
                                """, width= 600, height= 800
