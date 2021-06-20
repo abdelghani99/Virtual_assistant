@@ -65,7 +65,7 @@ def main():
                                <script type="text/javascript" src="https://hosted.us.uneeq.io/deploy/2e798354-09cd-4c9e-89c3-9e0ff1290cd1"></script>
                            </body>
                          </html>
-                               """, width= 200, height= 600
+                               """, width= 400, height= 600
 			
 )
 		
